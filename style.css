@@ -87,6 +87,7 @@ main a [href="mailto:"]{
     background-repeat: no-repeat;
     min-height: 100vh;
     position: relative;
+    color: black;
 }
 .about-box{
     max-width: 800px;
